@@ -1,3 +1,3 @@
-# A silly genetic algorithm
+# Simple genetic algorithm
 
-Learned from CodingTrain, the basics of AI 
+Learning the basics of AI from Youtube Channel CodingTrain
