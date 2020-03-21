@@ -1,2 +1,3 @@
-# Side-Projects
-Exploring programming world
+# A silly genetic algorithm
+
+Learned from CodingTrain, the basics of AI 
