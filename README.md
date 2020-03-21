@@ -1,2 +1,2 @@
 # Side-Projects
-Exploring programming
+Exploring programming world
