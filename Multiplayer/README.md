@@ -10,3 +10,5 @@ There are features as:
 * Basic AI
 
 Download the *build* folder and enjoy with your friends!
+
+Brackeys tutorials followed
