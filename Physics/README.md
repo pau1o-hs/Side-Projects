@@ -5,3 +5,5 @@ For while, already implemented gravity and velocity, linking to trajectory formu
 Discovering how physics works by trial and error is being painfully awesome.
 
 No builds or videos for while, only codes
+
+![Image description](https://github.com/pau1o-hs/Side-Projects/edit/master/Physics/current.png)
