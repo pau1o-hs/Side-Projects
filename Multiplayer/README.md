@@ -13,5 +13,5 @@ Download the *build* folder and enjoy with your friends!
 
 Brackeys tutorials followed
 
-![Image description](link-to-image)
-![Image description](link-to-image)
+![Image description](https://github.com/pau1o-hs/Side-Projects/blob/master/Multiplayer/mainMenu.png)
+![Image description](https://github.com/pau1o-hs/Side-Projects/blob/master/Multiplayer/inGame.png)
