@@ -12,3 +12,6 @@ There are features as:
 Download the *build* folder and enjoy with your friends!
 
 Brackeys tutorials followed
+
+![Image description](link-to-image)
+![Image description](link-to-image)
